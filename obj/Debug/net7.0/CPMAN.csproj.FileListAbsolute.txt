@@ -1,0 +1,16 @@
+E:\Learning\CPMAN\bin\Debug\net7.0\CPMAN.exe
+E:\Learning\CPMAN\bin\Debug\net7.0\map.txt
+E:\Learning\CPMAN\bin\Debug\net7.0\CPMAN.deps.json
+E:\Learning\CPMAN\bin\Debug\net7.0\CPMAN.runtimeconfig.json
+E:\Learning\CPMAN\bin\Debug\net7.0\CPMAN.dll
+E:\Learning\CPMAN\bin\Debug\net7.0\CPMAN.pdb
+E:\Learning\CPMAN\obj\Debug\net7.0\CPMAN.csproj.AssemblyReference.cache
+E:\Learning\CPMAN\obj\Debug\net7.0\CPMAN.GeneratedMSBuildEditorConfig.editorconfig
+E:\Learning\CPMAN\obj\Debug\net7.0\CPMAN.AssemblyInfoInputs.cache
+E:\Learning\CPMAN\obj\Debug\net7.0\CPMAN.AssemblyInfo.cs
+E:\Learning\CPMAN\obj\Debug\net7.0\CPMAN.csproj.CoreCompileInputs.cache
+E:\Learning\CPMAN\obj\Debug\net7.0\CPMAN.dll
+E:\Learning\CPMAN\obj\Debug\net7.0\refint\CPMAN.dll
+E:\Learning\CPMAN\obj\Debug\net7.0\CPMAN.pdb
+E:\Learning\CPMAN\obj\Debug\net7.0\CPMAN.genruntimeconfig.cache
+E:\Learning\CPMAN\obj\Debug\net7.0\ref\CPMAN.dll
